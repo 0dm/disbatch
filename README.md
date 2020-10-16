@@ -3,7 +3,7 @@ Converts batch to exe.
 
 # Requires MinGW
 
-Batch files are converted to C and compiled.
+Batch files are first converted to C and then compiled.
 
 # Examples
 test.bat
