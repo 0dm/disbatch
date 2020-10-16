@@ -4,6 +4,12 @@ Converts batch to exe.
 # Requires MinGW
 
 Batch files are first converted to C and then compiled.
+# Usage
+```
+b2e <input> <output> 
+// OR 
+b2e <input>
+```
 
 # Examples
 test.bat
