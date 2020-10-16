@@ -1,7 +1,9 @@
 # disbatch
-Converts batch to exe using MinGW.
+Converts batch to exe.
 
-Batch files are converted to C and compiled with MinGW
+# Requires MinGW
+
+Batch files are converted to C and compiled.
 
 # Examples
 test.bat
