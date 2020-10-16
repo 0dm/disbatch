@@ -1,7 +1,7 @@
 # disbatch
 Converts batch to exe.
 
-# Requires MinGW
+# Requires GCC - Compatible with Windows
 
 Batch files are first converted to C and then compiled.
 # Usage
