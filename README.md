@@ -24,3 +24,7 @@ test.c
 int main(){system("echo hi && echo bye && pause && rem");}
 ```
 which is then compiled with gcc to create a functional executable.
+
+# todo: far from perfect
+- support escape characters
+- do everything better
